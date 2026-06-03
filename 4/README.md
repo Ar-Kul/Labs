@@ -18,3 +18,6 @@
 - Обрабатывается также NumberFormatException при вводе не числа
 
 Запуск: java ArrayAverage, java FileCopy, java DivisionProgram
+
+---
+Автор: Кулинушкин Арсений Владимирович
