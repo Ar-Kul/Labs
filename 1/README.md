@@ -11,3 +11,7 @@
 - reverseString() переворачивает строку
 - isPalindrome() сравнивает исходную строку с перевёрнутой
 - Запуск: java Palindrome madam racecar apple kayak song noon
+
+---
+
+Автор: Кулинушкин Арсений Владимирович
